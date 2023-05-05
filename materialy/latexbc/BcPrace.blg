@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: BcPrace.aux
+The style file: czplainnat.bst
+A level-1 auxiliary file: Bc_titulni.aux
+A level-1 auxiliary file: Bc_kap01.aux
+A level-1 auxiliary file: Bc_kap02.aux
+A level-1 auxiliary file: Bc_kap03.aux
+Database file #1: priklady_literatury.bib
+You've used 8 entries,
+            2828 wiz_defined-function locations,
+            673 strings with 6232 characters,
+and the built_in function-call counts, 3569 in all, are:
+= -- 308
+> -- 205
+< -- 6
++ -- 71
+- -- 63
+* -- 314
+:= -- 576
+add.period$ -- 30
+call.type$ -- 8
+change.case$ -- 42
+chr.to.int$ -- 8
+cite$ -- 16
+duplicate$ -- 159
+empty$ -- 288
+format.name$ -- 75
+if$ -- 736
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 11
+newline$ -- 51
+num.names$ -- 32
+pop$ -- 81
+preamble$ -- 1
+purify$ -- 37
+quote$ -- 0
+skip$ -- 103
+stack$ -- 0
+substring$ -- 103
+swap$ -- 21
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 73
+warning$ -- 0
+while$ -- 29
+width$ -- 0
+write$ -- 120
